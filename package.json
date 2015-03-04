@@ -1,0 +1,26 @@
+{
+  "name": "reactweek-mini1-todolist",
+  "version": "0.0.0",
+  "description": "Mini Project 1: Todo List ============",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonalmaturner/reactweek-mini1-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonalmaturner/reactweek-mini1-todolist/issues"
+  },
+  "homepage": "https://github.com/jasonalmaturner/reactweek-mini1-todolist",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "webpack": "^1.5.3"
+  }
+}
